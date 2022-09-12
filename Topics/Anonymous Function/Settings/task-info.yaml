@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    function setSettings() {
+      return "Settings have saved.";
+    };
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10870#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 09 Sep 2022 20:48:37 UTC
+record: -1
